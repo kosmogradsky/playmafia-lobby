@@ -1,0 +1,12 @@
+{
+  "compilerOptions": {
+    "strict": true,
+    "noUncheckedIndexedAccess": true,
+    "downlevelIteration": true,
+    "sourceMap": true,
+    "noImplicitReturns": true,
+    "target": "es2020",
+    "moduleResolution": "node"
+  },
+  "include": ["src"]
+}

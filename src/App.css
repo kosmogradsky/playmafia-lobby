@@ -1,0 +1,38 @@
+.container {
+  padding-top: 42px;
+  display: flex;
+  justify-content: center;
+}
+
+.subcontainer {
+  width: 1224px;
+}
+
+.searchInput {
+  border: 1px solid rgba(255, 255, 255, 0.08);
+  border-radius: 6px;
+  padding-left: 30px;
+  padding-right: 30px;
+  padding-top: 20px;
+  padding-bottom: 20px;
+  background-color: #0d1016;
+  width: 228px;
+  color: white;
+}
+
+.createButton {
+  background-color: rgba(255, 255, 255, 0.08);
+  border-radius: 6px;
+  border: none;
+  padding-top: 20px;
+  padding-bottom: 20px;
+  padding-left: 84px;
+  padding-right: 84px;
+  color: white;
+}
+
+.header {
+  display: flex;
+  align-items: flex-start;
+  justify-content: space-between;
+}

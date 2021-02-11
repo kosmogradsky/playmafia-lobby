@@ -1,0 +1,21 @@
+.container {
+  display: flex;
+  padding-top: 25px;
+  padding-bottom: 25px;
+  padding-left: 30px;
+  background-color: rgba(255, 255, 255, 0.08);
+  border-radius: 6px;
+  margin-bottom: 10px;
+}
+
+.nameColumn {
+  width: 520px;
+}
+
+.gameTypeColumn {
+  width: 208px;
+}
+
+.gameStatusColumn {
+  width: 229px;
+}
